@@ -1,6 +1,6 @@
 import json
 # Input Names
-names=input().split(" ")
+names = [name.upper() for name in input().split()]
 
 # Check for The storage File
 try: # If found then load JSSON data

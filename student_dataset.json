@@ -1,0 +1,33 @@
+{
+    "Students": {
+        "MATTAM": {
+            "Present": 2,
+            "Absent": 0
+        },
+        "DEVANSHU": {
+            "Present": 3,
+            "Absent": 0
+        },
+        "AKHILESH": {
+            "Present": 1,
+            "Absent": 0
+        },
+        "VANSHIKA": {
+            "Present": 2,
+            "Absent": 0
+        },
+        "TEJAS": {
+            "Present": 1,
+            "Absent": 1
+        },
+        "AYUSH_MOHANTY": {
+            "Present": 1,
+            "Absent": 2
+        },
+        "AYUSH": {
+            "Present": 1,
+            "Absent": 2
+        }
+    },
+    "total_days": 3
+}
